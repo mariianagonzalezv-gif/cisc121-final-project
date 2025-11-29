@@ -46,12 +46,12 @@ So, instead of the user seeing the actual code of the algorithm (i.e. loops, if 
 #### Algorithm Design
 Here is the plan of how the app will work from input to output:
   1. input
-    - User types in a list of numbers into a textbook -> app turns this string into a list
-  2. processing (sorting)
-    - Set swapped = True to begin
-    - While swapped is true -> set swapped = False -> loop from the start of the list to the end -> for each index i, compare arr[i] and
+     - User types in a list of numbers into a textbook -> app turns this string into a list
+  3. processing (sorting)
+     - Set swapped = True to begin
+     - While swapped is true -> set swapped = False -> loop from the start of the list to the end -> for each index i, compare arr[i] and
      arr[i+ 1] -> if arr[i] > arr[i+1] swap and swapped = True -> record each comparison and swap as a step
-  3. output
-    - after the loop finishes (i.e. no swaps in final pass), return: the sorted list and the list of steps in order to make the algorithm
+  5. output
+     - after the loop finishes (i.e. no swaps in final pass), return: the sorted list and the list of steps in order to make the algorithm
      comprehensible
 
