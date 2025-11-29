@@ -34,4 +34,24 @@ Bubble sort is full of repetition and patterns, for example:
 
 In the end, repetition is helpful because it helps me and the user visualize each step the same way, leading to internalizing the concept a lot quicker.
 #### Abstraction
+Abstraction is about simplifying what the user sees on the app
+  1. When making this application, I want to make sure the user doesn't see the complexity of the indices, loops, or the code itself.
+     Instead I want to make sure they:
+     - See a box where they may enter the numbers they wish to be.
+     - A button to run the sorting
+     - Explanation of the steps
+     - The final result
+       
+So, instead of the user seeing the actual code of the algorithm (i.e. loops, if statements etc), the app would abstract these processes into something more commonly understandable. The goal of this app is that it makes this algorithm easier to learn without forcing the user to read raw code.
+#### Algorithm Design
+Here is the plan of how the app will work from input to output:
+  1. input
+    - User types in a list of numbers into a textbook -> app turns this string into a list
+  2. processing (sorting)
+    - Set swapped = True to begin
+    - While swapped is true -> set swapped = False -> loop from the start of the list to the end -> for each index i, compare arr[i] and
+     arr[i+ 1] -> if arr[i] > arr[i+1] swap and swapped = True -> record each comparison and swap as a step
+  3. output
+    - after the loop finishes (i.e. no swaps in final pass), return: the sorted list and the list of steps in order to make the algorithm
+     comprehensible
 
