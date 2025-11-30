@@ -77,7 +77,7 @@ Below you can see the [] test cases I chose to run
 2. One Number Only
    #### Input:
    "5"
-   <img width="472" height="370" alt="Screenshot 2025-11-29 at 11 51 33 PM" src="https://github.com/user-attachments/assets/08df8380-bf33-4f11-8e01-fbafdf1df11f" />
+<img width="472" height="370" alt="Screenshot 2025-11-29 at 11 51 33 PM" src="https://github.com/user-attachments/assets/08df8380-bf33-4f11-8e01-fbafdf1df11f" />
 
 3. Already Sorted List
    #### Input:
@@ -88,6 +88,7 @@ Below you can see the [] test cases I chose to run
    #### Input:
    "5 4 3 2 1"
 <img width="437" height="620" alt="Screenshot 2025-11-30 at 12 04 28 AM" src="https://github.com/user-attachments/assets/bf810a4b-6b50-4b53-8572-1ef3d3550656" />
+
 <img width="490" height="407" alt="Screenshot 2025-11-30 at 12 04 46 AM" src="https://github.com/user-attachments/assets/89057586-caa5-49de-8b44-25ae69d8ab1b" />
 <img width="474" height="424" alt="Screenshot 2025-11-30 at 12 05 05 AM" src="https://github.com/user-attachments/assets/7ff70b4f-e7d3-4bb4-80f5-4ed3f3ec43be" />
 
