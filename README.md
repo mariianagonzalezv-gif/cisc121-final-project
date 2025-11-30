@@ -123,6 +123,9 @@ Below you can see the [] test cases I chose to run
 
 All of the above test cases came back with what was the predicted result, therefore we can conclude that this application works correctly.
 
+## Author & Acknowledgment
+
+This code was written by Mariana Gonzalez
 
 
    
