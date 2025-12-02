@@ -127,6 +127,12 @@ All of the above test cases came back with what was the predicted result, theref
 
 This code was written by Mariana Gonzalez
 
+AI Disclaimer: Chat-GPT was used in order to correct the Gradio UI code, and help guide the making of the theme and the "wrapping".
+
+Other sources used:
+https://www.gradio.app/guides/theming-guide 
+https://www.gradio.app/guides/the-interface-class 
+
 
    
    
